@@ -46,3 +46,4 @@ export default const images = [
     },
 ];
 
+console.log('it works');
